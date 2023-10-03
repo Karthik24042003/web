@@ -1,0 +1,21 @@
+body{
+    background-image: url(res.jpg);
+}
+embed{
+    width: 80%;
+    margin-left: 15%;
+    height: 600px;
+    
+}
+a{
+    color: black;
+    font-family: Marker Felt, fantasy;
+    font-size: 20px;
+    margin-left: 95%;
+}
+marquee{
+    padding: 5px;
+    font-style: Marker Felt, fantasy;
+    font-size: 20px;
+    color: brown;
+}

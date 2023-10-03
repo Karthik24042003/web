@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+   
+
+    color: white;
+    padding: 70px;
+}
+li,ul,h1{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+    margin-top: 90%;
+    width: 20px;
+    padding:30px;
+}
+li a{
+    color: grey;
+    cursor: pointer;
+    font-style: inherit;
+    width: 20%;
+    font-size: 20px;
+   
+
+}
+li,a{
+    margin-right: 8px;
+}
+li a:hover{
+    color:white;
+}
+input{
+    padding: 15px;
+    width: 50%;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+}
+.p1{
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+.inbox{
+    display: block;
+   
+   
+    width: 100%;
+    margin-bottom: 100%;
+    
+}
+
+marquee{
+    animation-delay: 2ms;
+    width: 100%;
+    font-size: 20px;
+    color: goldenrod;
+}
+.box{
+    
+    color: white;
+}
+p{
+    font-size: 30px;
+    padding: 30px;   
+    color:grey;
+}
+body{
+    max-height: 100vh;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-image: url(rear-view-programmer-working-all-night-long.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

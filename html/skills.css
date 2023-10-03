@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-height: 100vh;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-image: url(skill2.jpg);
+    background-position: center;
+    background-size: 1390px;
+    background-repeat: no-repeat;
+
+}
+marquee{
+    animation-delay: 1ms;
+    width: 100%;
+    font-size: 30px;
+    color:purple;
+    display: inline-block;
+    font-family: Marker Felt, fantasy;
+}
+h1
+{
+    
+    color:lawngreen;
+    margin-left: 90px;
+    font-size: 50px;
+}
+.skills{
+    padding: 30px;
+    font-size: 30px;
+    color:black ;
+    text-align: center;
+    font-family: Marker Felt, fantasy;
+}
+.skills,ul,li,a{
+    padding: 6px;
+    color: black;
+}
+.home{
+    margin-left: 90%;
+    font-size: 20px;
+    padding: 5px;
+}
+.home,a{
+    color: black;
+}
