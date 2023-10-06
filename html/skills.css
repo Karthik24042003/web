@@ -9,7 +9,7 @@ body{
     justify-content: center;
     background-image: url(skill2.jpg);
     background-position: center;
-    background-size: 1390px;
+    background-size: cover;
     background-repeat: no-repeat;
 
 }
